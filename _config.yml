@@ -10,7 +10,7 @@ menu:
 customize:
     logo:
         enabled: true
-        width: 40
+        width: 97
         height: 40
         url: images/logo.png
     profile:
@@ -18,7 +18,7 @@ customize:
         avatar: css/images/avatar.jpg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Eduardo Avelar
-        author_title: Master in Computer Science - Tijuana Institute of Technology - (2017 - 2019)
+        author_title: Master in Computer Science
         location: Tijuana, Mexico
         follow: https://github.com/eavelardev
     highlight: monokai
