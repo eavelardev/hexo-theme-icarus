@@ -18,7 +18,7 @@ customize:
         avatar: css/images/avatar.jpg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Eduardo Avelar
-        author_title: Studying Master in Computer Science - Tijuana Institute of Technology - (2017 - 2019)
+        author_title: Master in Computer Science - Tijuana Institute of Technology - (2017 - 2019)
         location: Tijuana, Mexico
         follow: https://github.com/eavelardev
     highlight: monokai
@@ -93,7 +93,7 @@ miscellaneous:
     open_graph: # see http://ogp.me
         fb_app_id:
         fb_admins:
-        twitter_id: eavelarde
+        twitter_id: eavelardev
         google_plus:
     links:
         Tijuana Institute of Technology: http://tectijuana.edu.mx/
